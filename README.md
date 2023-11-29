@@ -22,3 +22,6 @@ Mesela yazdığımız işlemler hepsine farklı davranır
  heyhey
 
  olur
+ Ayrıca listeleri oluşturabiliriz 
+
+ bkz [a , b , c ]
